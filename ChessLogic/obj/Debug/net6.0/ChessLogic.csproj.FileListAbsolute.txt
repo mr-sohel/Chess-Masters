@@ -10,3 +10,15 @@ C:\Users\mrsoh\source\repos\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.dll
 C:\Users\mrsoh\source\repos\Chess\ChessLogic\obj\Debug\net6.0\refint\ChessLogic.dll
 C:\Users\mrsoh\source\repos\Chess\ChessLogic\obj\Debug\net6.0\ChessLogic.pdb
 C:\Users\mrsoh\source\repos\Chess\ChessLogic\obj\Debug\net6.0\ref\ChessLogic.dll
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\bin\Debug\net6.0\ChessLogic.deps.json
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\bin\Debug\net6.0\ChessLogic.dll
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\bin\Debug\net6.0\ChessLogic.pdb
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.AssemblyInfo.cs
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.sourcelink.json
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.dll
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\refint\ChessLogic.dll
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ChessLogic.pdb
+C:\Users\mrsoh\source\repos\Chess-Masters\ChessLogic\obj\Debug\net6.0\ref\ChessLogic.dll

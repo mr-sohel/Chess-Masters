@@ -16,7 +16,10 @@
       },
       "ChessLogic/1.0.0": {
         "runtime": {
-          "ChessLogic.dll": {}
+          "ChessLogic.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
