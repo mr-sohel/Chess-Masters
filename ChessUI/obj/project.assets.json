@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrsoh\\source\\repos\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess\\ChessUI\\ChessUI.csproj",
+      "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
       "packagesPath": "C:\\Users\\mrsoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrsoh\\source\\repos\\Chess\\ChessUI\\obj\\",
+      "outputPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,7 +48,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows7.0"
+        "net6.0-windows"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\mrsoh\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess\\ChessLogic\\ChessLogic.csproj"
+            "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }
@@ -68,6 +68,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -79,7 +84,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -91,7 +97,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
