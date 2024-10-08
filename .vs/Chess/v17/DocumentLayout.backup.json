@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Images.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\Images.cs",
-              "RelativeDocumentMoniker": "ChessUI\\Images.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\Images.cs",
-              "RelativeToolTip": "ChessUI\\Images.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Knight.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Knight.cs",
+              "RelativeToolTip": "ChessLogic\\Pieces\\Knight.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T09:24:57.649Z",
+              "WhenOpened": "2024-10-08T11:30:32.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "ChessLogic\\Pieces\\Pawn.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA7wEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T08:52:14.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-08T08:35:41.415Z",
+              "WhenOpened": "2024-10-08T10:46:02.215Z",
               "EditorCaption": ""
             }
           ]

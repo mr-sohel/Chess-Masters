@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ChessUI"
         mc:Ignorable="d"
-        Title="Chess" Width="600" SizeToContent="Height"
+        Title="Chess Masters" Width="600" SizeToContent="Height"
         Icon="Assets/icon.ico"
         WindowStartupLocation="CenterScreen"
         Background="#101010">
