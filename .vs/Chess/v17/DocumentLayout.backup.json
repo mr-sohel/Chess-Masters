@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\chesscursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\chesscursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Knight.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Knight.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Knight.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Knight.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Knight.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T11:30:32.4Z",
+              "WhenOpened": "2024-10-08T15:21:49.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Pawn.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Pawn.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Pawn.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Pawn.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Pawn.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA7wEAAAAAJAAAAAAAAAA==",
+              "Title": "ChessCursors.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessCursors.cs",
+              "RelativeDocumentMoniker": "ChessUI\\ChessCursors.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessCursors.cs",
+              "RelativeToolTip": "ChessUI\\ChessCursors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T10:46:02.215Z",
+              "WhenOpened": "2024-10-08T15:15:00.188Z",
               "EditorCaption": ""
             }
           ]

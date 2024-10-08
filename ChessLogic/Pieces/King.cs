@@ -10,13 +10,13 @@ namespace ChessLogic {
         public override Player Color { get; }
         private static readonly Direction[] dirs = new Direction[] {
             Direction.North,
-            Direction.NorthEast,
-            Direction.East,
-            Direction.SouthEast,
             Direction.South,
-            Direction.SouthWest,
+            Direction.East,
             Direction.West,
-            Direction.NorthWest
+            Direction.NorthWest,
+            Direction.NorthEast,
+            Direction.SouthWest,
+            Direction.SouthEast            
         };
         public King(Player color)
         {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ChessLogic {
-    public class NormalMove : Move{
+    public class NormalMove : Move {
         public override MoveType Type => MoveType.Normal;
         public override Position FromPos { get; }
         public override Position ToPos { get; }

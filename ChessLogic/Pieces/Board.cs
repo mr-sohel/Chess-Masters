@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ChessLogic {
+﻿namespace ChessLogic {
     public class Board {
         private readonly Piece[,] pieces = new Piece[8, 8];
         public Piece this[int row, int col] {

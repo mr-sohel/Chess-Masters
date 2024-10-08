@@ -16,7 +16,7 @@ namespace ChessLogic {
             if (color == Player.White) {
                 forward = Direction.North;
             }
-            else {
+            else if(color == Player.Black) {
                 forward = Direction.South;
             }
         }
@@ -37,7 +37,7 @@ namespace ChessLogic {
             return board[pos].Color != Color; // this might not work, if not then change Color to this.Color;
         }
         private IEnumerable<Move> ForwardMoves(Position from, Board board)
-        {
+        { 
 
             Position oneMovePos = from + forward;
             if (CanMoveTo(oneMovePos, board))
