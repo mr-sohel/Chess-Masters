@@ -44,7 +44,7 @@ namespace ChessUI {
                 EndReason.InsufficientMaterial => "INSUFFICIENT MATERIAL",
                 EndReason.ThreefoldRepetition => "THREEFOLD REPETITION",
                 _ => ""
-            }
+            };
         }
         private void Restart_Click(object sender, RoutedEventArgs e)
         {

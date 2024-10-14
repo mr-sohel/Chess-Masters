@@ -47,3 +47,4 @@ C:\Users\mrsoh\source\repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\refin
 C:\Users\mrsoh\source\repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\ChessUI.pdb
 C:\Users\mrsoh\source\repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\ChessUI.genruntimeconfig.cache
 C:\Users\mrsoh\source\repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\ref\ChessUI.dll
+C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\GameOverMenu.g.cs

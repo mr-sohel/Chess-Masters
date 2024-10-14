@@ -1,5 +1,5 @@
 ﻿ChessUI
-1.0.0.0
+
 
 winexe
 C#
@@ -12,8 +12,8 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\App.xaml
 2-1766651813
 
-91720492571
-195-2091505528
+7-1464977906
+195-991143451
 GameOverMenu.xaml;MainWindow.xaml;
 
 True
