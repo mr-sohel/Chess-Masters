@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj": {}
+    "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj",
+        "projectPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj",
         "packagesPath": "C:\\Users\\mrsoh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
@@ -68,12 +68,12 @@
         }
       }
     },
-    "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj": {
+    "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
+        "projectUniqueName": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
         "projectName": "ChessUI",
-        "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
+        "projectPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
         "packagesPath": "C:\\Users\\mrsoh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\obj\\",
         "projectStyle": "PackageReference",
@@ -96,8 +96,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
-                "projectPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj"
+              "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
+                "projectPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj"
               }
             }
           }
