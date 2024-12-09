@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ChessLogic {
+﻿namespace ChessLogic {
     public class King : Piece {
         public override PieceType Type => PieceType.King;
         public override Player Color { get; }
@@ -82,6 +76,14 @@ namespace ChessLogic {
             foreach (Position to in MovePositions(from, board))
             {
                 yield return new NormalMove(from, to);
+            }
+            if(CanCastleKingSide(from, board))
+            {
+                yield return new Castle(MoveType.CastleKS, from);
+            }
+            if (CanCastleQueenSide(from, board))
+            {
+                yield return new Castle(MoveType.CastleQS, from);
             }
         }
         public override bool CanCaptureOpponentKing(Position from, Board board)
