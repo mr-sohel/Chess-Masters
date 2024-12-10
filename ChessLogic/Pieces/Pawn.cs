@@ -59,7 +59,7 @@
                 Position twoMovePos = oneMovePos + forward;
                 if (!HasMoved && CanMoveTo(twoMovePos, board))
                 {
-                    yield return new NormalMove(from, twoMovePos);
+                    yield return new DoublePawn(from, twoMovePos);
                 }
             }
         }
@@ -68,7 +68,11 @@
             foreach(Direction dir in new Direction[] {Direction.West, Direction.East})
             {
                 Position to = from + forward + dir;
-                if(CanCaptureAt(to, board)) {
+                if(to == board.GetPawnSkipPosition(Color.Opponent()))
+                {
+                    yield return new EnPassant(from, to);
+                }
+                else if(CanCaptureAt(to, board)) {
                     if (to.Row == 0 || to.Row == 7)
                     {
                         foreach (Move move in PromotionMoves(from, to))
