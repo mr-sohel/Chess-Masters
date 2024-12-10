@@ -38,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs*",
               "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAuwMoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAYwNMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:58:49.669Z",
               "EditorCaption": ""
@@ -59,8 +63,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml*",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-10T14:55:00.369Z",
               "EditorCaption": ""
@@ -77,10 +81,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T14:50:42.501Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
