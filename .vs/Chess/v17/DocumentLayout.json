@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
               "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\GameState.cs",
               "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwD8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:55:25.959Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "ChessLogic\\Pieces\\Board.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAYwHIAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:30:39.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T13:30:39.752Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "ChessLogic\\Counting.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:23:34.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T13:23:34.711Z"
             }
           ]
         }
