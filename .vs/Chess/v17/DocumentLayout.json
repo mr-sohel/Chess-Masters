@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\pausemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FA6843A-0273-45FC-88D6-DDAC6806BCD5}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\pausemenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +47,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAALwAAAAAAAAAAAAYwNMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:58:49.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T14:55:00.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PauseMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\PauseMenu.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\PauseMenu.xaml.cs",
+              "RelativeToolTip": "ChessUI\\PauseMenu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:50:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\PauseMenu.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\PauseMenu.xaml",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\PauseMenu.xaml",
+              "RelativeToolTip": "ChessUI\\PauseMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-10T14:49:55.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GameState.cs",
               "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\GameState.cs",
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
@@ -43,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Board.cs",
               "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Board.cs",
@@ -55,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Counting.cs",
               "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Counting.cs",
               "RelativeDocumentMoniker": "ChessLogic\\Counting.cs",

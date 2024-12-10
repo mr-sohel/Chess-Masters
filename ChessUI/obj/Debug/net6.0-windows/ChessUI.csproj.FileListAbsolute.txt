@@ -52,3 +52,5 @@ C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\App.b
 C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\GameOverMenu.baml
 C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.g.cs
 C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\PromotionMenu.baml
+C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\PauseMenu.g.cs
+C:\Users\mrsoh\Source\Repos\Chess-Masters\ChessUI\obj\Debug\net6.0-windows\PauseMenu.baml
