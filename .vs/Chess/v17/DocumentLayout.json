@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\enpassant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\statestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\statestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\doublepawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\doublepawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\pieces\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\castle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|c:\\users\\mrsoh\\source\\repos\\chess-masters\\chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F6775EA-AF40-4F43-AB59-FCA0A1BAA36A}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,87 +40,48 @@
               "RelativeDocumentMoniker": "ChessLogic\\GameState.cs",
               "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\GameState.cs",
               "RelativeToolTip": "ChessLogic\\GameState.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwFEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwFIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:27:53.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnPassant.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\EnPassant.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\EnPassant.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\EnPassant.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\EnPassant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:27:12.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoublePawn.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\DoublePawn.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\DoublePawn.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\DoublePawn.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\DoublePawn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:26:38.59Z",
+              "WhenOpened": "2024-12-10T16:59:20.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PawnPromotion.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\PawnPromotion.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\PawnPromotion.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\PawnPromotion.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\PawnPromotion.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:26:04.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Castle.cs",
               "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\Castle.cs",
               "RelativeDocumentMoniker": "ChessLogic\\Moves\\Castle.cs",
               "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\Castle.cs",
               "RelativeToolTip": "ChessLogic\\Moves\\Castle.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:25:25.39Z",
+              "WhenOpened": "2024-12-10T16:37:09.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NormalMove.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\NormalMove.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\NormalMove.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\NormalMove.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\NormalMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Board.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Board.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Pieces\\Board.cs",
+              "RelativeToolTip": "ChessLogic\\Pieces\\Board.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwKYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:20:00.516Z",
+              "WhenOpened": "2024-12-10T16:36:10.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\Move.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\Move.cs",
-              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\Moves\\Move.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StateString.cs",
+              "DocumentMoniker": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\StateString.cs",
+              "RelativeDocumentMoniker": "ChessLogic\\StateString.cs",
+              "ToolTip": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessLogic\\StateString.cs",
+              "RelativeToolTip": "ChessLogic\\StateString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:19:20.064Z",
+              "WhenOpened": "2024-12-10T16:16:06.017Z",
               "EditorCaption": ""
             }
           ]
