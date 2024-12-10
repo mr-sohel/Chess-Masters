@@ -27,28 +27,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mrsoh\\.nuget\\packages\\": {},
+    "C:\\Users\\mesba\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
+      "projectUniqueName": "C:\\Users\\mesba\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
       "projectName": "ChessUI",
-      "projectPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
-      "packagesPath": "C:\\Users\\mrsoh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrsoh\\source\\repos\\Chess-Masters\\ChessUI\\obj\\",
+      "projectPath": "C:\\Users\\mesba\\source\\repos\\Chess-Masters\\ChessUI\\ChessUI.csproj",
+      "packagesPath": "C:\\Users\\mesba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mesba\\source\\repos\\Chess-Masters\\ChessUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mrsoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mesba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0-windows"
+        "net6.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
-              "projectPath": "C:\\Users\\mrsoh\\Source\\Repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj"
+            "C:\\Users\\mesba\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj": {
+              "projectPath": "C:\\Users\\mesba\\source\\repos\\Chess-Masters\\ChessLogic\\ChessLogic.csproj"
             }
           }
         }
@@ -68,11 +68,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -84,8 +79,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -97,7 +91,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

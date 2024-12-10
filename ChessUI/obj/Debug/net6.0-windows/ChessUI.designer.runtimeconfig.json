@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\mrsoh\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mrsoh\\.nuget\\packages",
+      "C:\\Users\\mesba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mesba\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
